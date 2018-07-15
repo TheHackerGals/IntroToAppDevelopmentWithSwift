@@ -1,4 +1,4 @@
-# IntroToAppDevelopmentWithSwift
+# Intro To App Development With Swift
 Resources for our Intro to App Development With Swift course
 
 Source Code: https://www.apple.com/105/media/ca/education/everyone-can-code/2017/sample-code/swift/downloads/app-dev-curriculum.zip
