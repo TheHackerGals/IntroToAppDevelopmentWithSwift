@@ -2,7 +2,7 @@
 Resources for our Intro to App Development With Swift course
 
 Intro to App Development Book:
-https://itunes.apple.com/ca/book/intro-to-app-development-with-swift/id1209706994?mt=11&ls=1
+https://itunes.apple.com/ca/book/intro-to-app-development-with-swift/id1118575552?mt=11
 
 Source Code: https://www.apple.com/105/media/ca/education/everyone-can-code/2017/sample-code/swift/downloads/app-dev-curriculum.zip
 
