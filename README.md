@@ -6,8 +6,17 @@ Source Code: https://www.apple.com/105/media/ca/education/everyone-can-code/2017
 Swift documentation:
 https://swift.org/
 
+WWDC videos:
+https://developer.apple.com/videos/
+
+Everyone Can Code:
+https://www.apple.com/ca/everyone-can-code/
+
 Swift source code:
 https://github.com/apple/swift
+
+Great Swift tutorials:
+https://www.raywenderlich.com
 
 Great Swift links:
 https://github.com/Wolg/awesome-swift
@@ -18,6 +27,5 @@ https://github.com/PerfectlySoft/Perfect
 Learn common algorithms:
 https://github.com/raywenderlich/swift-algorithm-club
 
-Great Swift tutorials:
-https://www.raywenderlich.com
+
 
