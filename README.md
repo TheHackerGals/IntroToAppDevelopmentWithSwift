@@ -30,5 +30,19 @@ https://github.com/PerfectlySoft/Perfect
 Learn common algorithms:
 https://github.com/raywenderlich/swift-algorithm-club
 
+Some Udemy Courses for Free:
+Android App development:
+https://freecoursesite.com/the-complete-android-o-app-development-2/
+
+IOS and Swift Free Courses:
+https://freecoursesite.com/ios-12-swift-the-complete-ios-app-development-bootcamp-1/
+
+Flutter and Dart Courses:
+https://freecoursesite.com/1-flutter-dart-the-complete-flutter-app-development-course/
+
+
+
+
+
 
 
